@@ -1,6 +1,6 @@
 FROM eclipse-temurin:17-jdk
         
-EXPOSE 8080
+EXPOSE 8000
  
 ENV APP_HOME /usr/src/app
 
